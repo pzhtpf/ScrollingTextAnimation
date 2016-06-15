@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ScrollingTextAnimation_Example' do
+  pod 'ScrollingTextAnimation', :path => '../'
+
+  target 'ScrollingTextAnimation_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
