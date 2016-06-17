@@ -1,0 +1,16 @@
+PODS:
+  - ScrollingTextAnimation (0.1.0)
+
+DEPENDENCIES:
+  - ScrollingTextAnimation (from `../`)
+
+EXTERNAL SOURCES:
+  ScrollingTextAnimation:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ScrollingTextAnimation: e789ba7a8e09616d2aa0d5511c4dc9935ffd46dd
+
+PODFILE CHECKSUM: 0b8749a4c4c43bda45c442c87133a36a3fc004a1
+
+COCOAPODS: 1.0.0

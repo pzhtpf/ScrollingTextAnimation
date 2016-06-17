@@ -10,6 +10,10 @@
 
 @interface TPFViewController ()
 
+- (IBAction)startAction:(id)sender;
+- (IBAction)stopAction:(id)sender;
+
+
 @end
 
 @implementation TPFViewController
@@ -26,4 +30,9 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)startAction:(id)sender {
+}
+
+- (IBAction)stopAction:(id)sender {
+}
 @end
